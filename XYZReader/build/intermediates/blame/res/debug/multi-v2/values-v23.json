@@ -4,7 +4,7 @@
             "outputFile": "/Users/Emily/StudioProjects/xyz-reader/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Applications/Android Studio.app/Contents/gradle/gradle-3.3/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/bfd33136ea0c927f1a8a43af81361701/res/values-v23/values-v23.xml",
+                    "source": "/Applications/Android Studio.app/Contents/gradle/gradle-3.3/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/253a04bfe03a4a985bd0254797503329/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Applications/Android Studio.app/Contents/gradle/gradle-3.3/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/e53fb56e365937fd5df8611c69a74e7b/res/values-v23/values-v23.xml",
+                    "source": "/Applications/Android Studio.app/Contents/gradle/gradle-3.3/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/e580a6102b7f21de942c92e7575fcab2/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

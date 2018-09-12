@@ -4,7 +4,26 @@
             "outputFile": "/Users/Emily/StudioProjects/xyz-reader/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/Applications/Android Studio.app/Contents/gradle/gradle-3.3/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/e53fb56e365937fd5df8611c69a74e7b/res/values-land/values-land.xml",
+                    "source": "/Applications/Android Studio.app/Contents/gradle/gradle-3.3/caches/transforms-1/files-1.1/design-25.4.0.aar/fd6a5a4ef47e9ec97a77744f651804a8/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "438",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "615"
+                    }
+                },
+                {
+                    "source": "/Applications/Android Studio.app/Contents/gradle/gradle-3.3/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/e580a6102b7f21de942c92e7575fcab2/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
