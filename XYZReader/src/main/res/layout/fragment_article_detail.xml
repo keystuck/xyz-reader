@@ -1,5 +1,4 @@
 <com.example.xyzreader.ui.DrawInsetsFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/draw_insets_frame_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
@@ -26,10 +25,6 @@
                     android:layout_height="@dimen/detail_photo_height"
                      />
 
-                <!--View
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:background="@drawable/photo_background_protection" /-->
             </FrameLayout>
 
             <com.example.xyzreader.ui.MaxWidthLinearLayout
