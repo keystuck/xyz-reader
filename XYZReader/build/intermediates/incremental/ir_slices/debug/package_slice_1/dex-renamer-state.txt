@@ -1,4 +1,0 @@
-#Sat Sep 08 19:46:08 EDT 2018
-base.0=/Users/Emily/StudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dexMerger/debug/2
-path.0=classes.dex
-renamed.0=classes.dex
