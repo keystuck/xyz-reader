@@ -192,7 +192,8 @@ public class ArticleListActivity extends ActionBarActivity implements
             holder.thumbnailView.setImageUrl(
                     mCursor.getString(ArticleLoader.Query.THUMB_URL),
                     ImageLoaderHelper.getInstance(ArticleListActivity.this).getImageLoader());
-            holder.thumbnailView.setAspectRatio(mCursor.getFloat(ArticleLoader.Query.ASPECT_RATIO));
+//            holder.thumbnailView.setAspectRatio(mCursor.getFloat(ArticleLoader.Query.ASPECT_RATIO));
+            holder.thumbnailView.setAspectRatio(DynamicHeightNetworkImageView.getmAspectRatio());
         }
 
         @Override

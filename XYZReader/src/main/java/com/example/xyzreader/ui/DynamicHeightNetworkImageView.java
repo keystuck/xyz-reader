@@ -6,7 +6,11 @@ import android.util.AttributeSet;
 import com.android.volley.toolbox.NetworkImageView;
 
 public class DynamicHeightNetworkImageView extends NetworkImageView {
-    private float mAspectRatio = 1.5f;
+    private static float mAspectRatio = 1.5f;
+
+    public static float getmAspectRatio() {
+        return mAspectRatio;
+    }
 
     public DynamicHeightNetworkImageView(Context context) {
         super(context);
